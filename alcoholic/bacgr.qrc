@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/backgr">
+        <file>backgr/j8684aev.jpeg</file>
+        <file>backgr/photo-1536096593875-c80ef8bfb2a0.jpg</file>
+        <file>backgr/photo-1536258477261-ed04353f24ae.jpg</file>
+        <file>backgr/photo-1536918745164-74520ba9b75a.jpg</file>
+    </qresource>
+</RCC>
